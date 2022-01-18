@@ -1,0 +1,20 @@
+VEGETARIAN DELIGHT
+                                           Price in Rs.
+Name                         Small             Medium            Large             
+Margherita                    100              175               320
+Farm House                    130              190               370  
+Double Cheese Margherita      120              185               300 
+Mexican Green Wave             90              150               300
+Deluxe Veggie                  95              160               310
+Peppy Paneer                  110              165               310
+CHEESE N CORN                 100              175               320
+Veg Extravaganza              105              165               300
+NON-VEG PARADISE:
+Name                         Small             Medium            Large             
+Pepper Barbeque               110              275               420
+Chicken Golden Delight        140              290               470  
+Chicken Sausage               130              285               400 
+Non Veg Supreme               100              250               400
+Chicken Dominator             115              260               410
+CHICKEN BARBEQUE              120              275               420    
+Non- Veg Delight	     140	        215	         380

@@ -1,0 +1,14 @@
+Customer Name: Aarush Singh Sabharwal
+
+Bill amount: Rs.150
+
+Customer Name: AmanDeep Singh
+
+Bill amount: Rs.250
+
+Customer Name: Mohan Sharma
+
+Bill amount: Rs.500
+Customer Name: Mannat Sabharwal
+
+Bill amount: Rs.410

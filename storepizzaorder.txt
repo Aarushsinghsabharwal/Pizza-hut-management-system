@@ -1,0 +1,21 @@
+Customer Name: Aarush Singh Sabharwal
+Number of customers: 1
+Pizza names :1 Peppy Paneer
+
+Bill amount: Rs.150
+
+Customer Name: AmanDeep Singh
+Number of customers: 2
+Pizza names :1 Chicken Barbeque
+
+Bill amount: Rs.250
+Customer Name: Mohan Sharma
+Number of customers: 3
+Pizza names :1 Non veg Delight, 1 Chicken Fiesta
+
+Bill amount: Rs.500
+Customer Name: Mannat Sabharwal
+Number of customers: 2
+Pizza names :1 chicken dominator(large)
+
+Bill amount: Rs.410
